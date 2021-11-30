@@ -7,7 +7,7 @@ def greet(bot_name, birth_year):
 def remind_name():
     print('Please, remind me your name.')
     name = input()
-    print(f'What a great name you have, Marry!')
+    print(f'What a great name you have, Aid!')
     
 
 
